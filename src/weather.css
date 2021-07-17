@@ -114,3 +114,7 @@ img {
 .card-body {
   text-align: center;
 }
+.footer {
+  text-align: center;
+  font: monospace;
+}
